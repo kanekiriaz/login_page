@@ -1,0 +1,163 @@
+.main-item{
+    width: 850px;
+    height: 920px;
+    top: 113px;
+    left: 237px;
+    padding: 0%;
+    gap: 32px;
+    border-radius: 32px ;
+    border: 1px ;
+    opacity: 0px;
+    border: 1px solid #66666659;
+    position: absolute;
+    left: 68%;
+    top: 56%;
+    transform: translate(-50%, -50%);
+    padding-top: 10px;
+}
+.create-account{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    
+    height: 140px;
+    gap: 7px;
+    opacity: 0px;
+}
+.create-account button{
+    width: 40px;
+    height: 40px;
+    gap: 0px;
+    opacity: 0px;
+    background: #C4C4C4;
+    border-radius: 50%;
+    border: 0px;
+    
+}
+.create-account h1{
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 48px;
+    text-align: center;
+}
+.create-account p{
+    color: #666666;
+    
+    height: 16px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 45px;
+    margin: 25px;
+    gap: 15px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #666666;
+}
+.login input{
+    height: 56px;
+    gap: 0px;
+    border-radius: 12px ;
+    border: 3px;
+    opacity: 0px;
+    border: 1px solid #66666659;
+    text-align: left;
+    padding: 0px 0px 0px 15px;
+}
+.pass{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 10px 0px 0px;
+    margin: 0px 5px 0px;
+}
+.pass button{
+    border: 0px;
+    border: #fff;
+    background-color: #fff;
+    color: #666666;
+}
+.check{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    gap: 15px;
+    
+}
+.check input{
+    width: 18px;
+    height: 18px;
+    opacity: 0px; 
+    padding-right: 10px;
+}
+.log button{
+    width: 100%;
+    height: 64px;
+    padding: 16.5px 0px 17.5px 0px;
+    gap: 0px;
+    border-radius: 32px;
+    opacity: 0.25px;
+    border: 0px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    background: #111111;
+    ;
+    color: #fff;
+}
+.log button:hover{
+    background: #66666659;
+}
+.more-account{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+.more-account button{
+    width: 478px;
+    height: 64px;
+    padding: 15px 103px 16px 104px;
+    gap: 0px;
+    border-radius: 40px ;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #333333;
+    background: #fff;
+
+    font-family: Avenir;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 30.05px;
+    text-align: left;
+    color: #333333;
+    
+}
+.more-account img{
+    width: 24px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
